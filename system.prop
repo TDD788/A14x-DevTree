@@ -1,0 +1,5 @@
+ro.display.series=a14x
+ro.boot.dynamic_partitions=true
+persist.sys.isUsbOtgEnabled=false
+ro.crypto.volume.filenames_mode=aes-256-cts
+fbe.metadata.wrappedkey=true
